@@ -22,11 +22,6 @@
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-## Which bible libraries do I use
-             Python - I know the Bible libraries:
-             Disnake is For writing bots on the Discord platform,
-             Sqlite3 is For databases (I don't know until the end).
-
 ## 🎛️ Operating System
   ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
