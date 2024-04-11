@@ -3,11 +3,11 @@
 ### I am writing bots for the Discord application in Python.
 
 ## About me
-             Name - Kybik 
-             Age - 13.
-             Birthday - December 1st.
-             Languages - Russian and English.
-             Bot - </blank>.
+             Name - Arina
+             Age - 16.
+             Birthday - December 9st.
+             Languages - Russian.
+             Bot - Qucik.
 
 
 ## Programming languages
