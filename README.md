@@ -20,6 +20,7 @@
 
 ## The operating system
   [![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
 ## My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakelmi&theme=tokyonight&show_icons=true&title_color=gruvbox)
