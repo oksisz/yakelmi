@@ -19,7 +19,7 @@
              Sqlite3 is For databases (I don't know until the end).
 
 ## The operating system
-  [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+  [![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 ## My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybikcube&theme=tokyonight&show_icons=true&title_color=gruvbox)
