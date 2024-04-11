@@ -24,4 +24,4 @@
 ## My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakelmi&theme=tokyonight&show_icons=true&title_color=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakelmi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
