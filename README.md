@@ -22,6 +22,6 @@
   [![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 
 ## My statistics
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybikcube&theme=tokyonight&show_icons=true&title_color=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakelmi&theme=tokyonight&show_icons=true&title_color=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
