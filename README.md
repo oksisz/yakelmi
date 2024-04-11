@@ -28,4 +28,4 @@
 
 ## Presence
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/939055674615287838)](https://discord.com/users/939055674615287838)
+[![Discord Presence](https://lanyard.cnrad.dev/api/939055674615287838)](https://discord.com/users/1220800931394752545)
