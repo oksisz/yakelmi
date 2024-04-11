@@ -25,7 +25,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kybikcube&theme=tokyonight&show_icons=true&title_color=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kybikcube&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## Presence
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/939055674615287838)](https://discord.com/users/1220800931394752545)
