@@ -28,7 +28,6 @@
              Sqlite3 is For databases (I don't know until the end).
 
 ## 🎛️ Operating System
-  [![Linux](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
   ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
 
 ## My statistics
