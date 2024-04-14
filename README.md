@@ -3,7 +3,7 @@
 ### I am writing bots for the Discord application in Python.
 
 ## About me
-             Name - Arina
+             Name - Ilya
              Age - 16.
              Birthday - December 9st.
              Languages - Russian.
