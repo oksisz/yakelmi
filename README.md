@@ -23,7 +23,7 @@
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## 🎛️ Operating System
-  ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## My statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakelmi&theme=tokyonight&show_icons=true&title_color=gruvbox)
