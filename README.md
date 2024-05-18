@@ -3,11 +3,11 @@
 ### Я пишу ботов для приложения Discord на Python.
 
 ## About me
-             Name - Ilya
+             Name - Stella
              Age - 16.
              Birthday - December 9st.
              Languages - Russian.
-             Bot - Qucik.
+             Bot - Stella.
              
 ## 💻 IDEs/Editors
   ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
