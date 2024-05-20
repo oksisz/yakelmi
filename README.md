@@ -24,3 +24,7 @@
 
 ## 🎛️ Operating System
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## My statistics
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yakelmi&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yakelmi&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
